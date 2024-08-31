@@ -1,6 +1,7 @@
 ## Git Commands
 
 ```
+git clone url (one time)
 git add test.java (add single file only test.java) 
 git add . (add all files in current path)
 git status
