@@ -1,4 +1,0 @@
-**/.class/**
-**/.class/**
-
-*\test\basic\.class\*
