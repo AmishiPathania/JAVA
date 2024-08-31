@@ -15,6 +15,7 @@ git branch
 git merge
 git cherrypick
 git log
+git clone
 ```
 
 
