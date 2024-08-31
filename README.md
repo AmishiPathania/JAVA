@@ -10,7 +10,11 @@ git push
 *** Before Commit ***
 git pull 
 
-
+### 
+git branch
+git merge
+git cherrypick
+git log
 ```
 
 
