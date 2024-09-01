@@ -19,7 +19,7 @@ public class SimpleInhertince { // access modifers // classes
 		// instance block
 		System.out.println("Instance Block");
 	}
-
+	
 	public static void main(String... args) {
 		SimpleInhertince object =  new SimpleInhertince();
 		 // Object Creation  + Constructor 
